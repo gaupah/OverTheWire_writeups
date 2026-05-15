@@ -43,7 +43,7 @@ Helpful Reading Material:
 
 ```key
 -----BEGIN RSA PRIVATE KEY-----
-<<<redacted but you can refer the image>>>
+<<<redacted, but refer the image if you need an idea>>>
 -----END RSA PRIVATE KEY-----
 ```
 
