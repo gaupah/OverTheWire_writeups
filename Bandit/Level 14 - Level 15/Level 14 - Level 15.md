@@ -1,4 +1,4 @@
-![[Pasted image 20260515213822.png]]
+![](<Pasted image 20260515213822.png>)
 
 Helpful Reading Material:
 
@@ -9,19 +9,19 @@ Helpful Reading Material:
 - [Ports](https://computer.howstuffworks.com/web-server8.htm)
 - [Port (computer networking) on Wikipedia](https://en.wikipedia.org/wiki/Port_\(computer_networking\))
 
-![[Pasted image 20260515213849.png]]
+![](<Pasted image 20260515213849.png>)
 **Passwords in unix/linux systems are stored in the /etc/passwd file**
 
 **So we try to read that file:**
-![[Pasted image 20260515213914.png]]
+![](<Pasted image 20260515213914.png>)
 
-![[Pasted image 20260515213930.png]]
+![](<Pasted image 20260515213930.png>)
 
 ```
 MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 ```
 
-![[Pasted image 20260515214020.png]]
+![](<Pasted image 20260515214020.png>)
 
 **Just doing nc localhost 30000 was taking a lot of time to resolve so I just used echo “thepasswd” and piped it to the netcat address**
 
