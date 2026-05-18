@@ -13,7 +13,7 @@ Pretty simple one to kick things off, all we need to do is log into the wargame 
 
 
 ### My approach:
-Using command:
+Using the command:
 ```
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
