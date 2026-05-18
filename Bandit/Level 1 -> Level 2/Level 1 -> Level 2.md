@@ -1,6 +1,6 @@
 ![alt text](image.png)
 
-[Challenge Link](https://overthewire.org/wargames/bandit/bandit2.html)
+[Challenge Page](https://overthewire.org/wargames/bandit/bandit2.html)
 
 ### helpful reading material:
 
@@ -35,7 +35,7 @@ cat ./-
 ![alt text](image-5.png)
 
 
-### the password to login into the next level (level 2) is:
+### the password to login into the next level (level 2):
 ```
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 ```
