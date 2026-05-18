@@ -2,7 +2,7 @@
 
 [Challenge page](https://overthewire.org/wargames/bandit/bandit1.html)
 
-### The goal:
+### the goal:
 We're logged in as `bandit0` from the previous level. Now we need to find the password for `bandit1`. According to the challenge, it's sitting in a file called `readme` in the home directory. Easy enough we just need to read it.
 
 ### lil bit of the theory:
@@ -30,7 +30,7 @@ That's it. Two commands.
 
 ![alt text](image-1.png)
 
-### the password for the next level (level 1):
+### the password to login in to next level (level 1) is:
 
 ```
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
