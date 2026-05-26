@@ -1,5 +1,7 @@
 ![alt text](image.png)
 
+[Challenge Page](https://overthewire.org/wargames/bandit/bandit7.html)
+
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
@@ -16,6 +18,8 @@
 
 ![alt text](image-7.png)
 
+
+### the password for the next level (level 7):
 ```
 morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 ```

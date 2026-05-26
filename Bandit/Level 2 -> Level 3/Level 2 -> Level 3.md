@@ -5,10 +5,11 @@
 ### Helpful Reading Material:
 [Google Search for “spaces in filename”](https://www.google.com/search?q=spaces+in+filename)
 
-### the goal:
-Log in as `bandit2`. The password is in a file called `spaces in this filename` in the home directory. Spaces in the filename. Sounds annoying? it is, believe me. But it's a really common real-world problem, so let's get through it.
+### The goal:
+- Log in as `bandit2`. The password is in a file called `spaces in this filename` in the home directory. Spaces in the filename. 
+- Sounds annoying? it is, believe me. 
 
-### a lil bit of theory:
+### A lil bit of theory:
 The shell uses spaces as *delimiters*, meaning when you type cat ```spaces in this filename```, it thinks you're trying to read four separate files called `spaces`, `in`, `this`, and `filename`, none of which exist. 
 
 So we get an error.
@@ -20,7 +21,7 @@ There are two clean ways to handle spaces in filenames:
 
 Both work. Pick whichever feels more natural to you.
 
-### my approach:
+### My approach:
 
 ssh'd in as `bandit2`:
 ```
@@ -46,7 +47,7 @@ cat -- "spaces in this filename"
 ![alt text](image-2.png)
 
 
-### the password to login into the next level (level 3):
+### The password to login into the next level (level 3):
 ```
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 ```

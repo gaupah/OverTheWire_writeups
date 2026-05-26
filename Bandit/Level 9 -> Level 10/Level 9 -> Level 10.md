@@ -1,5 +1,7 @@
 ![](<Pasted image 20260515211708.png>)
 
+[Challenge Page](https://overthewire.org/wargames/bandit/bandit10.html)
+
 ![](<Pasted image 20260515211720.png>)
 
 ![](<Pasted image 20260515211732.png>)
